@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43bbc2837f4aa9f498603040fa116509, type: 3}
+  m_Name: Man1
+  m_EditorClassIdentifier: 
+  name: Man1
+  avatarImage:
+  - mode: 0
+    sprite: {fileID: -557477394, guid: 1aaf8898942cc7b419d357086a74d020, type: 3}
+  - mode: 1
+    sprite: {fileID: 1084293623, guid: 1aaf8898942cc7b419d357086a74d020, type: 3}
+  - mode: 2
+    sprite: {fileID: 2067866056, guid: 1aaf8898942cc7b419d357086a74d020, type: 3}
